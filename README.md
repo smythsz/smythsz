@@ -17,6 +17,6 @@
 
  - 🌱 Estudando React e Java.
  - 🏫 Análise e Desenvolvimento de Sistemas na UNISINOS.
- - 🏢 A procura de Job na area para a evolução e dedicação ainda mais.
+ - 🏢 A procura de Job na área para a evolução e ainda mais dedicação.
  - 🏠 Atualmente moro em Cachoeirinha, RS.
  - 🎯 Praticante de Airsoft.
