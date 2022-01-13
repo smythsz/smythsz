@@ -15,7 +15,7 @@
  
  ##
 
- - 🌱 Estudando React e Java.
+ - 🌱 Praticando React e Java.
  - 🏫 Análise e Desenvolvimento de Sistemas na UNISINOS.
  - 🏢 A procura de Job na área para a evolução e ainda mais dedicação.
  - 🏠 Atualmente moro em Cachoeirinha, RS.
